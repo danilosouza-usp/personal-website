@@ -1,0 +1,35 @@
+lang: en
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Danilo Souza"
+  site-url: "https://danilosouza-usp.github.io/personal-website"
+  navbar:
+    pinned: true
+    right:
+      - text: Research
+        href: "#research"
+      - text: Teaching
+        href: "#teaching"
+      - text: Contact
+        href: "#contact"
+  page-navigation: false
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true
+    include-in-header:
+      # Inter for body/UI + Font Awesome for the header icons
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">

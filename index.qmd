@@ -1,0 +1,218 @@
+---
+pagetitle: "Danilo Souza — Economist"
+description-meta: "Associate Professor of Economics, University of São Paulo."
+---
+
+<!-- ============ COAUTHORS ============ -->
+[americo]: https://sites.google.com/view/pedroamerico
+[corbi]: https://raphaelcorbi.github.io/
+[ferreira]: https://rafaelxferreira.com/  
+[maciel]: https://sites.google.com/view/mateusmaciel/home
+[nakaguma]: https://sites.google.com/view/nakaguma/home
+[narita]: https://sites.google.com/site/renatanarita/
+[oliveira]: https://sites.google.com/view/mateusmaciel/home
+[rodrigues]: https://sites.google.com/site/mrodriguesjr/
+[soares]: https://sites.google.com/view/rodrigo-r-soares/
+
+::: {.site}
+
+<!-- ============ HEADER + BIO (fills the first screen) ============ -->
+::: {.intro}
+::: {.hero}
+::: {.hero-photo}
+![](files/danilo.png){fig-alt="Danilo Souza"}
+:::
+
+```{=html}
+<div class="hero-text">
+  <div class="hero-name">Danilo Souza</div>
+  <p class="hero-eyebrow">Associate Professor of Economics</p>
+  <br>
+  <p class="hero-affil">Department of Economics, University of São Paulo (FEA-USP)</p>
+  <p class="hero-sub">Founder and Director, <a href="https://sites.usp.br/geecrim/">GEECRIM (<i>Grupo de Estudos em Economia do Crime e Violência</i>)</a></p>
+</div>
+```
+:::
+
+```{=html}
+<div class="hero-links">
+  <a href="https://scholar.google.com/citations?user=rOVVDL0AAAAJ&hl">Google Scholar</a>
+  <a href="https://orcid.org/0000-0002-9229-4960?lang=en">ORCID</a>
+  <a href="https://www.linkedin.com/in/danilo-paula-de-souza">LinkedIn</a>
+  <a href="https://drive.google.com/file/d/1-4qnaTV6rpfSUmXEW3sW5AQgki7zIIRI/view?usp=sharing">CV (English)</a>
+  <a href="http://lattes.cnpq.br/8150565050096637">CV (Portuguese)</a>
+</div>
+```
+
+I'm an Associate Professor of Economics at the School of Economics, Business and Accounting at the University of São Paulo (FEA-USP).
+
+My research interests are primarily in the Economics of Crime and Labor Economics. I am interested in how economic shocks and institutions shape crime, in how crime in turn affects firms and labor market outcomes, and in how legal institutions affect labor markets. I am also interested in organized crime and its links to the formal economy and to institutions in Brazil.
+
+[Economics of Crime · Labor economics · Applied Microeconomics]{.fields}
+:::
+
+<!-- ============ RESEARCH ============ -->
+::: {#research}
+## Research
+
+### Publications {.subhead}
+
+::: {.pub}
+[Electoral Campaign Attacks: Theory and Evidence](https://www.aeaweb.org/articles?id=10.1257/mic.20240211){.pub-title}
+
+with [Marcos Y. Nakaguma][nakaguma] · **American Economic Journal: Microeconomics**, Forthcoming
+
+[Political Economy]{.pub-topic} · [PDF](){.pub-link} · [Replication Package](https://www.aeaweb.org/articles?id=10.1257/mic.20240211){.pub-link}
+:::
+
+::: {.pub}
+[Too Much of a Good Thing: Accelerated Growth and Crime](https://www.sciencedirect.com/science/article/pii/S0304387825000501){.pub-title}
+
+with [Rodrigo R. Soares][soares] · **Journal of Development Economics**, Vol. 175, 2025
+
+[Crime]{.pub-topic} · [PDF](){.pub-link} · [Replication Package: upon request]{.pub-link} · Featured in [Estadão (2025)](https://www.estadao.com.br/economia/cidades-que-viveram-boom-do-petroleo-sofreram-com-aumento-da-violencia-veja-as-mais-afetadas/){.pub-link}
+:::
+
+::: {.pub}
+[A Model of Endogenous Education Quality: the Role of Teachers](https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/abs/model-of-endogenous-education-quality-the-role-of-teachers/8A2771879CB9CBD6E75495C9B6D6D497){.pub-title}
+
+with [Mauro Rodrigues][rodrigues] · **Macroeconomic Dynamics**, Vol. 29, 2025
+
+[Growth & Development]{.pub-topic} · [PDF](){.pub-link} · [Replication Package: upon request]{.pub-link}
+:::
+
+::: {.pub}
+[The Role of Public Security Reforms on Violent Crime Dynamics](https://www.sciencedirect.com/science/article/abs/pii/S0165176524003094){.pub-title}
+
+with [Mateus Maciel][maciel] · **Economics Letters**, Vol. 241, 2024
+
+[Crime]{.pub-topic} · [PDF](){.pub-link} · [Replication Package: upon request]{.pub-link}
+:::
+
+::: {.pub}
+[Female Judges and In-Group Bias in Labor Courts](https://ideas.repec.org/a/ebl/ecbull/eb-20-01177.html){.pub-title}
+
+with [Jaqueline Oliveira][oliveira], [Raphael Corbi][corbi], and [Rafael Ferreira][ferreira] · **Economics Bulletin**, Vol. 41 (No. 3), 2021
+
+[Labor]{.pub-topic} · [PDF](){.pub-link} · [Replication Package: upon request]{.pub-link}
+:::
+
+::: {.pub}
+[Education Quality and the Empirics of Economic Growth: reconciling Mankiw-Romer-Weil estimates with microeconometric evidence](https://www.tandfonline.com/doi/full/10.1080/13504851.2020.1761524){.pub-title}
+
+with [Mauro Rodrigues][rodrigues] · **Applied Economics Letters**, Vol. 28 (No. 6), 2021
+
+[Growth & Development]{.pub-topic} · [PDF](){.pub-link} · [Replication Package: upon request]{.pub-link}
+:::
+
+### Working papers {.subhead}
+
+::: {.pub}
+[Labor Courts, Job Search, and Employment: Evidence from a Labor Reform in Brazil](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4121304){.pub-title}
+
+with [Raphael Corbi][corbi], [Rafael Ferreira][ferreira], and [Renata Narita][narita]
+
+[Labor]{.pub-topic} · Featured in [Valor Econômico (2022)](https://valor.globo.com/brasil/noticia/2022/05/04/regra-da-reforma-trabalhista-reduziu-desemprego-em-17-ponto-diz-estudo.ghtml){.pub-link}, [CNN Brazil (2022)](https://www.cnnbrasil.com.br/economia/macroeconomia/estudo-aponta-regra-da-reforma-trabalhista-gerou-17-milhao-de-vagas-de-trabalho/){.pub-link}, [BBC Brazil (2022)](https://www.bbc.com/portuguese/brasil-61442663){.pub-link}
+:::
+
+::: {.pub}
+[No Country for Exposed Firms: Violent Crime and Business Performance Across Sectors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5378445){.pub-title}
+
+Solo authored
+
+[Crime]{.pub-topic}
+:::
+
+### In progress {.subhead}
+
+::: {.pub}
+[Justice at a Cost: Labor Lawsuits and Employment Outcomes](){.pub-title}
+
+with Tuffy L. Issa · *Draft coming soon*
+
+[Labor]{.pub-topic}
+:::
+
+::: {.pub}
+[Strangers in a Booming Land: Immigration, Growth, and Crime in Late Nineteenth- and Early Twentieth-Century Brazil ](){.pub-title}
+
+with [Pedro Américo][americo]
+
+[Crime]{.pub-topic}
+:::
+
+### Other publications {.subhead}
+
+::: {.pub}
+[When Fear Goes Viral: The Role of Social Media in Perceived Insecurity](){.pub-title}
+
+with Bruno Velha · **Pesquisa e Planejamento Econômico (IPEA)**, Forthcoming
+
+[Crime]{.pub-topic} · [PDF](){.pub-link} · [Replication Package: upon request]{.pub-link}
+:::
+:::
+
+<br><br>
+
+<!-- ============ TEACHING ============ -->
+::: {#teaching}
+## Teaching
+
+In recent years, I have taught undergraduate and graduate courses in Computational Methods, the Economics of Crime, and Macroeconomics.Syllabi for the courses I am currently teaching are linked below.
+
+::: {.courses}
+::: {.course}
+[Computational Economics]{.course-name}
+
+::: {.offerings}
+[Undergraduate]{.course-level}
+:::
+:::
+
+::: {.course}
+[Economics of Crime]{.course-name}
+
+::: {.offerings}
+[Undergraduate]{.course-level} · [Syllabus](teaching/econ-crime-grad.html){.course-link}
+
+[Graduate]{.course-level} · [Syllabus](teaching/econ-crime-grad.html){.course-link}
+:::
+:::
+
+::: {.course}
+[Macroeconomics I]{.course-name}
+
+::: {.offerings}
+[Undergraduate]{.course-level}
+:::
+:::
+
+::: {.course}
+[Macroeconomics II]{.course-name}
+
+::: {.offerings}
+[Undergraduate]{.course-level}
+:::
+:::
+:::
+:::
+
+<br><br>
+
+<!-- ============ CONTACT ============ -->
+::: {#contact}
+## Contact
+
+::: {.contact-info}
+[danilosouza@usp.br](mailto:danilosouza@usp.br)
+
+Avenida Professor Luciano Gualberto, 908
+
+University of São Paulo, FEA II Building, Office 221
+
+São Paulo, SP, Brazil · 05508-010
+:::
+:::
+
+[© 2026 Danilo Souza · Last updated August 2026 · Made with [Quarto](https://quarto.org/)]{.footer-note}
+:::
