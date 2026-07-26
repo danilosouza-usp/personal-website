@@ -3,10 +3,13 @@ lang: en
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
+
 
 website:
   title: "Danilo Souza"
-  site-url: "https://danilosouza-usp.github.io/personal-website"
+  site-url: "https://danilosouza.com"
   navbar:
     pinned: true
     right:

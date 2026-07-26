@@ -1,1 +1,1 @@
-Sitemap: https://danilosouza-usp.github.io/personal-website/sitemap.xml
+Sitemap: https://danilosouza.com/sitemap.xml

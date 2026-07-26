@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://danilosouza-usp.github.io/personal-website/index.html</loc>
-    <lastmod>2026-07-25T20:30:41.969Z</lastmod>
+    <loc>https://danilosouza.com/teaching/econ-crime-undergrad.html</loc>
+    <lastmod>2026-07-26T14:08:57.128Z</lastmod>
   </url>
   <url>
-    <loc>https://danilosouza-usp.github.io/personal-website/econ-crime-grad.html</loc>
+    <loc>https://danilosouza.com/index.html</loc>
+    <lastmod>2026-07-26T14:09:07.087Z</lastmod>
+  </url>
+  <url>
+    <loc>https://danilosouza.com/teaching/econ-crime-grad.html</loc>
     <lastmod>2026-07-25T20:34:29.308Z</lastmod>
   </url>
 </urlset>

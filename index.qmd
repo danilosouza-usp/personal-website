@@ -173,7 +173,7 @@ In recent years, I have taught undergraduate and graduate courses in Computation
 [Economics of Crime]{.course-name}
 
 ::: {.offerings}
-[Undergraduate]{.course-level} · [Syllabus](teaching/econ-crime-grad.html){.course-link}
+[Undergraduate]{.course-level} · [Syllabus](teaching/econ-crime-undergrad.html){.course-link}
 
 [Graduate]{.course-level} · [Syllabus](teaching/econ-crime-grad.html){.course-link}
 :::

@@ -4,5 +4,11 @@
   },
   "econ-crime-grad.qmd": {
     "econ-crime-grad.html": "0a3d4fad"
+  },
+  "teaching/econ-crime-grad.qmd": {
+    "econ-crime-grad.html": "ef3afbbe"
+  },
+  "teaching/econ-crime-undergrad.qmd": {
+    "econ-crime-undergrad.html": "9bbc0f9b"
   }
 }
