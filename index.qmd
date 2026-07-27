@@ -158,7 +158,7 @@ with Bruno Velha · **Pesquisa e Planejamento Econômico (IPEA)**, Forthcoming
 ::: {#teaching}
 ## Teaching
 
-In recent years, I have taught undergraduate and graduate courses in Computational Methods, the Economics of Crime, and Macroeconomics.Syllabi for the courses I am currently teaching are linked below.
+In recent years, I have taught undergraduate and graduate courses in Computational Methods, the Economics of Crime, and Macroeconomics. Syllabi for the courses I am currently teaching are linked below.
 
 ::: {.courses}
 ::: {.course}
