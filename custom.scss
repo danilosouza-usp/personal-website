@@ -305,6 +305,11 @@ a.pub-topic:hover { background: #dfeaf6;}
 }
 .course-link:hover { color: $accent; }
 
+.course-page {
+  .sec { margin-top: 3rem; }
+  .subhead { margin-top: 1.75rem; }
+}
+
 // Stack into one column on narrow screens
 @media (max-width: 560px) {
   .courses { grid-template-columns: 1fr; }

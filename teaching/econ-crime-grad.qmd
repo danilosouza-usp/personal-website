@@ -3,7 +3,7 @@ pagetitle: "EAE6089 — Economics of Crime I"
 description-meta: "Graduate course on the economics of crime, University of São Paulo (FEA-USP)."
 ---
 
-::: {.site}
+::: {.site .course-page}
 
 <!-- ============ COURSE HEADER ============ -->
 ```{=html}
@@ -18,8 +18,8 @@ description-meta: "Graduate course on the economics of crime, University of São
 
 ```{=html}
 <div class="hero-links">
-  <a href="../files/reading-list.pdf">Lecture Plan and Reading List</a>
-  <a href="https://calendly.com/">Office hours</a>
+  <a href="https://drive.google.com/file/d/16OmRQsUOTBLQZLEn7lDFmfymWUzxLTIR/view?usp=sharing">Lecture Plan and Reading List</a>
+  <a href="https://calendly.com/danilo_souza/office_hours">Office hours</a>
   <a href="mailto:danilosouza@usp.br">Email</a>
   <a href="../index.html#teaching">← All courses</a>
 </div>
@@ -30,12 +30,15 @@ description-meta: "Graduate course on the economics of crime, University of São
 ## Description
 
 ### Mission {.subhead}
+
 This course prepares students to engage critically with the economics of crime, with an emphasis on empirical research that uses modern methods of causal identification. We cover the effects of policing, punishment, labor market conditions, and education on crime, as well as public policy in illegal markets and the dynamics of organized crime. Students will learn to assess the existing evidence, identify gaps in the literature, and design original projects with the potential for high-impact publication.
 
 ### Prerequisites {.subhead}
+
 Students should be comfortable with microeconomic theory — in particular the analysis of market failures and welfare — and with modern methods of causal identification, including differences-in-differences, regression discontinuity, and instrumental variables. Prior coursework in econometrics is strongly recommended.
 
 ### Content summary {.subhead}
+
 ::: {.topics}
 1. Motivation: data, the state of the field, and empirical challenges
 2. The rational choice model: static and dynamics
@@ -63,21 +66,23 @@ A detailed reading list for each topic is available above.
 <!-- ============ ASSESSMENT ============ -->
 ::: {#assessment .sec}
 ## Assessment
+
 Assessment has three components: (i) a referee report on an unpublished paper, (ii) a class presentation of a published paper, and (iii) an original research project on a topic related to the course, submitted as a 10–15 page paper and presented in class. The first two are worth 20% each; the project accounts for the remaining 60%.
 
 ### Key dates {.subhead}
+
 ::: {.info-block}
 - [Referee report due to 26 August]{.info-value}
 - [Research project presentations: 23 & 28 September]{.info-value}
 - [Final research project due to 9 October]{.info-value}
 :::
 
-### Use of AI
+### Use of AI {.subhead}
 AI tools are not prohibited, but they must not form the basis of your work: the analysis, the interpretation, and the ideas must be yours. This course follows the standards now set by academic publishers, and you are strongly encouraged to read both — they are short, and you will be held to them when you submit your own papers: [Elsevier](https://www.elsevier.com/about/policies-and-standards/generative-ai-policies-for-journals) and [Wiley](https://www.wiley.com/en-us/publish/article/ai-guidelines/#peerreview).
 
 Every submission in which AI was used must close with a section titled *``Declaration of generative AI and AI-assisted technologies in the [referee report / manuscript] preparation process''*, stating exactly which tool was used and at which stages. Use the templates provided by either publisher. Basic spelling and grammar checks need not be declared.
 
-One rule admits no exceptions: when writing your referee report, **never upload the paper**, or any part of it, into an AI tool. An unpublished manuscript is a confidential document, and doing so may violate the authors' confidentiality and proprietary rights.
+When writing your referee report, **never upload the paper**, or any part of it, into an AI tool. An unpublished manuscript is a confidential document, and doing so may violate the authors' confidentiality and proprietary rights.
 :::
 
 <!-- ============ CONTACT ============ -->
