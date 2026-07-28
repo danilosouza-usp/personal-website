@@ -168,6 +168,12 @@ h2 {
   letter-spacing: normal;
 }
 
+section.subhead {
+  font-weight: 400;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
 #research { margin-top: 2.5rem; }
 #research h2 + .subhead { margin-top: 1.75rem;}
 

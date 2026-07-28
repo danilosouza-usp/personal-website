@@ -1,9 +1,9 @@
 ---
-pagetitle: "EAE1247 — Economia do Crime"
+pagetitle: "EAE6089 — Economics of Crime I"
 description-meta: "Graduate course on the economics of crime, University of São Paulo (FEA-USP)."
 ---
 
-::: {.site}
+::: {.site .course-page}
 
 <!-- ============ COURSE HEADER ============ -->
 ```{=html}
@@ -11,15 +11,15 @@ description-meta: "Graduate course on the economics of crime, University of São
   <div class="hero-name">Economics of Crime I</div>
   <p class="hero-eyebrow">EAE6089 · Graduate</p>
   <p class="hero-affil">Department of Economics, School of Economics, Business and Accounting (FEA-USP)</p>
-  <p class="hero-sub">Danilo Souza · Third term, 2026</p>
+  <p class="hero-sub">Danilo Souza · August 3 - October 11, 2026</p>
 </div>
 ```
+<br>
 
 ```{=html}
 <div class="hero-links">
-  <a href="https://drive.google.com/">Lecture plan</a>
-  <a href="../files/reading-list.pdf">Reading list</a>
-  <a href="https://calendly.com/">Office hours</a>
+  <a href="https://drive.google.com/file/d/16OmRQsUOTBLQZLEn7lDFmfymWUzxLTIR/view?usp=sharing">Lecture Plan and Reading List</a>
+  <a href="https://calendly.com/danilo_souza/office_hours">Office hours</a>
   <a href="mailto:danilosouza@usp.br">Email</a>
   <a href="../index.html#teaching">← All courses</a>
 </div>
@@ -29,15 +29,27 @@ description-meta: "Graduate course on the economics of crime, University of São
 ::: {#description .sec}
 ## Description
 
-Organised around topics, this course — together with its sequel, Economics of
-Crime II — aims to equip students to read and critically evaluate the
-literature on the economics of crime, with an emphasis on empirical work using
-modern causal identification strategies. We discuss central questions in the
-field: the effects of policing and the structure of punishment on criminal
-behaviour, the consequences of immigration, the effectiveness of public policy
-in illegal markets, and the dynamics of organised crime. Beyond becoming
-familiar with the core literature, students will learn to recognise the limits
-of existing evidence, identify open questions, and propose original research.
+### Mission {.subhead}
+
+This course prepares students to engage critically with the economics of crime, with an emphasis on empirical research that uses modern methods of causal identification. We cover the effects of policing, punishment, labor market conditions, and education on crime, as well as public policy in illegal markets and the dynamics of organized crime. Students will learn to assess the existing evidence, identify gaps in the literature, and design original projects with the potential for high-impact publication.
+
+### Prerequisites {.subhead}
+
+Students should be comfortable with microeconomic theory — in particular the analysis of market failures and welfare — and with modern methods of causal identification, including differences-in-differences, regression discontinuity, and instrumental variables. Prior coursework in econometrics is strongly recommended.
+
+### Content summary {.subhead}
+
+::: {.topics}
+1. Motivation: data, the state of the field, and empirical challenges
+2. The rational choice model: static and dynamics
+3. Policing, enforcement, and discrimination
+4. Incarceration, monitoring, and punishment
+5. Labour market conditions and education
+6. Organised crime: causes and consequences
+7. Illegal markets and drugs
+:::
+
+A detailed reading list for each topic is available above.
 :::
 
 <!-- ============ MEETINGS ============ -->
@@ -45,11 +57,9 @@ of existing evidence, identify open questions, and propose original research.
 ## Meetings
 
 ::: {.info-block}
-[Room]{.info-label} [A-8, FEA-1]{.info-value}
-
-[Time]{.info-label} [Mondays and Thursdays, 4:00–5:50 pm]{.info-value}
-
-[Term]{.info-label} [Third term, 2026]{.info-value}
+- [Room A-8, FEA I Building]{.info-value}
+- [Mondays and Wednesdays, 4:00–5:50 pm]{.info-value}
+- [August 3 - October 11, 2026]{.info-value}
 :::
 :::
 
@@ -57,84 +67,29 @@ of existing evidence, identify open questions, and propose original research.
 ::: {#assessment .sec}
 ## Assessment
 
-::: {.info-block}
-[20%]{.info-label} [Referee report on an unpublished paper]{.info-value}
-
-[20%]{.info-label} [Presentation of a published paper]{.info-value}
-
-[60%]{.info-label} [Research project: presentation and final paper]{.info-value}
-:::
+Assessment has three components: (i) a referee report on an unpublished paper, (ii) a class presentation of a published paper, and (iii) an original research project on a topic related to the course, submitted as a 10–15 page paper and presented in class. The first two are worth 20% each; the project accounts for the remaining 60%.
 
 ### Key dates {.subhead}
 
 ::: {.info-block}
-[26 Aug]{.info-label} [Referee report due]{.info-value}
-
-[23 & 28 Sep]{.info-label} [Research project presentations]{.info-value}
-
-[9 Oct]{.info-label} [Final research project due]{.info-value}
-:::
+- [Referee report due to 26 August]{.info-value}
+- [Research project presentations: 23 & 28 September]{.info-value}
+- [Final research project due to 9 October]{.info-value}
 :::
 
-<!-- ============ SYLLABUS ============ -->
-::: {#syllabus .sec}
-## Syllabus
+### Use of AI {.subhead}
+AI tools are not prohibited, but they must not form the basis of your work: the analysis, the interpretation, and the ideas must be yours. This course follows the standards now set by academic publishers, and you are strongly encouraged to read both — they are short, and you will be held to them when you submit your own papers: [Elsevier](https://www.elsevier.com/about/policies-and-standards/generative-ai-policies-for-journals) and [Wiley](https://www.wiley.com/en-us/publish/article/ai-guidelines/#peerreview).
 
-::: {.topics}
-1. Motivation: data, the state of the field, and empirical challenges
-2. The rational choice model: static and dynamic
-3. Police presence, enforcement, and discrimination in policing
-4. Incarceration, monitoring, and punishment
-5. Labour market conditions and education
-6. Economic shocks and general equilibrium effects
-7. Organised crime: causes and consequences
-:::
+Every submission in which AI was used must close with a section titled *``Declaration of generative AI and AI-assisted technologies in the [referee report / manuscript] preparation process''*, stating exactly which tool was used and at which stages. Use the templates provided by either publisher. Basic spelling and grammar checks need not be declared.
 
-A detailed reading list for each topic is available
-[here](../files/reading-list.pdf){.pub-link}.
-:::
-
-<!-- ============ READINGS ============ -->
-::: {#readings .sec}
-## Main references
-
-::: {.readings}
-Lecture notes · Danilo Souza
-
-Buonanno, P., P. Vanin, and J. Vargas (2022). *A Modern Guide to the Economics
-of Crime*. Edward Elgar Publishing.
-
-Chalfin, A. and J. McCrary (2017). Criminal deterrence: a review of the
-literature. *Journal of Economic Literature* 55(1), 5–48.
-
-Draca, M. and S. Machin (2015). Crime and economic incentives. *Annual Review
-of Economics* 7, 389–408.
-
-Cook, P. J., S. Machin, O. Marie, and G. Mastrobuoni (2013). *Lessons from the
-Economics of Crime: What Reduces Offending?* MIT Press.
-
-Benson, B. and P. R. Zimmerman (2010). *Handbook on the Economics of Crime*.
-Edward Elgar Publishing.
-:::
-
-Selected journal articles are assigned for each topic.
+When writing your referee report, **never upload the paper**, or any part of it, into an AI tool. An unpublished manuscript is a confidential document, and doing so may violate the authors' confidentiality and proprietary rights.
 :::
 
 <!-- ============ CONTACT ============ -->
 ::: {#course-contact .sec}
 ## Questions
 
-Questions that come up during class are best resolved in class. For anything
-that remains, please come to office hours. Short questions — ones that fit in a
-few lines — can be sent by email with the subject line
-`EAE6089 — FirstnameLastname`. Beyond that, feel free to reach out in person or
-by email about anything else.
-
-::: {.contact-info}
-[Office hours: book a slot](https://calendly.com/) · Room 221, FEA-2
-
-[danilosouza@usp.br](mailto:danilosouza@usp.br)
-:::
+Questions that come up during class are best resolved in class. For anything that remains, please come to office hours. Short questions — ones that fit in a few lines — can be sent by email with the subject line `EAE6089 — FirstnameLastname`. Beyond that, feel free to reach out in person or by email about anything else.
 :::
 
 [© 2026 Danilo Souza · [Back to homepage](../index.html)]{.footer-note}
