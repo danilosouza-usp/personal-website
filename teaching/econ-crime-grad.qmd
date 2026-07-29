@@ -18,7 +18,7 @@ description-meta: "Graduate course on the economics of crime, University of São
 
 ```{=html}
 <div class="hero-links">
-  <a href="https://drive.google.com/file/d/16OmRQsUOTBLQZLEn7lDFmfymWUzxLTIR/view?usp=sharing">Lecture Plan and Reading List</a>
+  <a href="https://drive.google.com/file/d/15lll-6lE1Xgj-MZZetZIUNHMqsRkrPo3/view?usp=sharing">Lecture Plan and Reading List</a>
   <a href="https://calendly.com/danilo_souza/office_hours">Office hours</a>
   <a href="mailto:danilosouza@usp.br">Email</a>
   <a href="../index.html#teaching">← All courses</a>
@@ -57,8 +57,8 @@ A detailed reading list for each topic is available above.
 ## Meetings
 
 ::: {.info-block}
-- [Room A-8, FEA I Building]{.info-value}
 - [Mondays and Wednesdays, 4:00–5:50 pm]{.info-value}
+- [Room A-8, FEA I Building]{.info-value}
 - [August 3 - October 11, 2026]{.info-value}
 :::
 :::

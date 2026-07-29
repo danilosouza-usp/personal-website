@@ -316,6 +316,29 @@ a.pub-topic:hover { background: #dfeaf6;}
   .subhead { margin-top: 1.75rem; }
 }
 
+// --- Bibliography / reading list (course pages) ---
+.readings {
+  text-align: left;
+  margin-top: 0.5rem;
+}
+
+.readings p {
+  font-size: 0.85rem;
+  color: $muted;
+  line-height: 1.5;
+  margin: 0 0 0.65rem 0;
+  padding-left: 1.5rem;
+  text-indent: -1.5rem;      // hanging indent, as in a reference list
+}
+
+.readings em { color: $ink; }        // book and journal titles sit slightly forward
+
+.readings a {
+  color: $muted;
+  text-decoration: none;
+  border-bottom: 0.5px solid #dcdcdc;
+}
+
 // Stack into one column on narrow screens
 @media (max-width: 560px) {
   .courses { grid-template-columns: 1fr; }

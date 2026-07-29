@@ -70,7 +70,7 @@ with [Marcos Y. Nakaguma][nakaguma] · **American Economic Journal: Microeconomi
 
 with [Rodrigo R. Soares][soares] · **Journal of Development Economics**, Vol. 175, 2025
 
-[Crime]{.pub-topic} · [PDF](){.pub-link} · [Replication Package: upon request]{.pub-link} · Featured in [Estadão (2025)](https://www.estadao.com.br/economia/cidades-que-viveram-boom-do-petroleo-sofreram-com-aumento-da-violencia-veja-as-mais-afetadas/){.pub-link}
+[Crime]{.pub-topic} · [PDF](){.pub-link} · Featured in [Estadão (2025)](https://www.estadao.com.br/economia/cidades-que-viveram-boom-do-petroleo-sofreram-com-aumento-da-violencia-veja-as-mais-afetadas/){.pub-link}
 :::
 
 ::: {.pub}
@@ -78,7 +78,7 @@ with [Rodrigo R. Soares][soares] · **Journal of Development Economics**, Vol. 1
 
 with [Mauro Rodrigues][rodrigues] · **Macroeconomic Dynamics**, Vol. 29, 2025
 
-[Growth & Development]{.pub-topic} · [PDF](){.pub-link} · [Replication Package: upon request]{.pub-link}
+[Growth & Development]{.pub-topic} · [PDF](){.pub-link}
 :::
 
 ::: {.pub}
@@ -86,7 +86,7 @@ with [Mauro Rodrigues][rodrigues] · **Macroeconomic Dynamics**, Vol. 29, 2025
 
 with [Mateus Maciel][maciel] · **Economics Letters**, Vol. 241, 2024
 
-[Crime]{.pub-topic} · [PDF](){.pub-link} · [Replication Package: upon request]{.pub-link}
+[Crime]{.pub-topic} · [PDF](){.pub-link}
 :::
 
 ::: {.pub}
@@ -94,7 +94,7 @@ with [Mateus Maciel][maciel] · **Economics Letters**, Vol. 241, 2024
 
 with [Jaqueline Oliveira][oliveira], [Raphael Corbi][corbi], and [Rafael Ferreira][ferreira] · **Economics Bulletin**, Vol. 41 (No. 3), 2021
 
-[Labor]{.pub-topic} · [PDF](){.pub-link} · [Replication Package: upon request]{.pub-link}
+[Labor]{.pub-topic} · [PDF](){.pub-link}
 :::
 
 ::: {.pub}
@@ -102,7 +102,7 @@ with [Jaqueline Oliveira][oliveira], [Raphael Corbi][corbi], and [Rafael Ferreir
 
 with [Mauro Rodrigues][rodrigues] · **Applied Economics Letters**, Vol. 28 (No. 6), 2021
 
-[Growth & Development]{.pub-topic} · [PDF](){.pub-link} · [Replication Package: upon request]{.pub-link}
+[Growth & Development]{.pub-topic} · [PDF](){.pub-link}
 :::
 
 ### Working papers {.subhead}
@@ -148,7 +148,7 @@ with [Pedro Américo][americo]
 
 with Bruno Velha · **Pesquisa e Planejamento Econômico (IPEA)**, Forthcoming
 
-[Crime]{.pub-topic} · [PDF](){.pub-link} · [Replication Package: upon request]{.pub-link}
+[Crime]{.pub-topic} · [PDF](){.pub-link}
 :::
 :::
 
