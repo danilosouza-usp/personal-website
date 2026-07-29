@@ -1,6 +1,6 @@
 ---
-pagetitle: "EAE6089 — Economics of Crime I"
-description-meta: "Graduate course on the economics of crime, University of São Paulo (FEA-USP)."
+pagetitle: "EAE1247 — Economia do Crime"
+description-meta: "Disciplina de graduação em economia do crime, University of São Paulo (FEA-USP)."
 ---
 
 ::: {.site .course-page}
@@ -39,22 +39,20 @@ Alunos devem se sentir confortáveis com teoria microeconômica básica e econom
 
 ### Programa do curso {.subhead}
 
-::: {.topics}
 1. Modelo de escolha racional e atividade criminosa
-  - Modelo de custos e benefícios: Becker (1968)
-  - Modelo de alocação de tempo: Ehrlich (1973)
-  - Efeitos da alteração de custos: Prisão, Punição e Policiamento
-  - Efeitos de oportunidades: Mercado de Trabalho e Educação
+    - Modelo de custos e benefícios: Becker (1968)
+    - Modelo de alocação de tempo: Ehrlich (1973)
+    - Efeitos da alteração de custos: Prisão, Punição e Policiamento
+    - Efeitos de oportunidades: Mercado de Trabalho e Educação
 
 2. Tópicos em Economia do Crime
-  - Choques econômicos e equilíbrio geral
-  - Crimes ambientais
-  - Fiscalização e monitoramento
-  - Imigração
-  - Capital social e redes
-  - Crime organizado
-  - Drogas e mercados ilegais
-:::
+    - Choques econômicos e equilíbrio geral
+    - Crimes ambientais
+    - Fiscalização e monitoramento
+    - Imigração
+    - Capital social e redes
+    - Crime organizado
+    - Drogas e mercados ilegais
 
 ### Bibliografia {.subhead}
 

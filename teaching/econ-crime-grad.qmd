@@ -39,7 +39,6 @@ Students should be comfortable with microeconomic theory — in particular the a
 
 ### Content summary {.subhead}
 
-::: {.topics}
 1. Motivation: data, the state of the field, and empirical challenges
 2. The rational choice model: static and dynamics
 3. Policing, enforcement, and discrimination
@@ -47,7 +46,6 @@ Students should be comfortable with microeconomic theory — in particular the a
 5. Labour market conditions and education
 6. Organised crime: causes and consequences
 7. Illegal markets and drugs
-:::
 
 A detailed reading list for each topic is available above.
 :::
