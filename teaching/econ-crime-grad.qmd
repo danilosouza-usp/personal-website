@@ -55,7 +55,7 @@ A detailed reading list for each topic is available above.
 ## Meetings
 
 ::: {.info-block}
-- [Mondays and Wednesdays, 4:00–5:50 pm]{.info-value}
+- [Mondays and Wednesdays, 4:00--5:50 PM]{.info-value}
 - [Room A-8, FEA I Building]{.info-value}
 - [August 3 - October 11, 2026]{.info-value}
 :::

@@ -42,8 +42,9 @@ Alunos devem se sentir confortáveis com teoria microeconômica básica e econom
 1. Modelo de escolha racional e atividade criminosa
     - Modelo de custos e benefícios: Becker (1968)
     - Modelo de alocação de tempo: Ehrlich (1973)
-    - Efeitos da alteração de custos: Prisão, Punição e Policiamento
-    - Efeitos de oportunidades: Mercado de Trabalho e Educação
+    - Efeitos da alteração de custos diretos: Prisão, Punição e Policiamento
+    - Efeitos da alteração nos custos de oportunidade: Mercado de Trabalho e Educação
+
 
 2. Tópicos em Economia do Crime
     - Choques econômicos e equilíbrio geral
@@ -69,7 +70,7 @@ Alunos devem se sentir confortáveis com teoria microeconômica básica e econom
 ## Aulas
 
 ::: {.info-block}
-- [Segunda-feira às 7:30–9:10 pm e Quarta-feira às 9:20-11:00pm]{.info-value} 
+- [Segunda-feira às 7:30--9:10 PM e Quarta-feira às 9:20--11:00 PM]{.info-value} 
 - [Sala A-5 (segunda-feira) e A-8 (quarta-feira) do FEA-1]{.info-value}
 - [3 de Agosto - 30 de Novembro, 2026]{.info-value}
 :::
