@@ -70,9 +70,9 @@ Assessment has three components: (i) a referee report on an unpublished paper, (
 ### Key dates {.subhead}
 
 ::: {.info-block}
-- [Referee report due to 26 August]{.info-value}
+- [Referee report due on 26 August]{.info-value}
 - [Research project presentations: 23 & 28 September]{.info-value}
-- [Final research project due to 9 October]{.info-value}
+- [Final research project due on 9 October]{.info-value}
 :::
 
 ### Use of AI {.subhead}
