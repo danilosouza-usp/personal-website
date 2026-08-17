@@ -19,6 +19,7 @@ description-meta: "Graduate course on the economics of crime, University of São
 ```{=html}
 <div class="hero-links">
   <a href="https://drive.google.com/file/d/15lll-6lE1Xgj-MZZetZIUNHMqsRkrPo3/view?usp=sharing">Lecture Plan and Reading List</a>
+  <a href="https://drive.google.com/file/d/1uFEyCxLB5dRCG_-mF1TCtjjKR6HH8xIQ/view?usp=sharing">Referee Report List</a>
   <a href="https://calendly.com/danilo_souza/office_hours">Office hours</a>
   <a href="mailto:danilosouza@usp.br">Email</a>
   <a href="../index.html#teaching">← All courses</a>
@@ -70,7 +71,7 @@ Assessment has three components: (i) a referee report on an unpublished paper, (
 ### Key dates {.subhead}
 
 ::: {.info-block}
-- [Referee report due on 26 August]{.info-value}
+- [Referee report due on 11 September]{.info-value}
 - [Research project presentations: 23 & 28 September]{.info-value}
 - [Final research project due on 9 October]{.info-value}
 :::
