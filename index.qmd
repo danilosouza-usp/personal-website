@@ -60,9 +60,9 @@ My research interests are primarily in the Economics of Crime and Labor Economic
 ::: {.pub}
 [Electoral Campaign Attacks: Theory and Evidence](https://www.aeaweb.org/articles?id=10.1257/mic.20240211){.pub-title}
 
-with [Marcos Y. Nakaguma][nakaguma] · **American Economic Journal: Microeconomics**, Forthcoming
+with [Marcos Y. Nakaguma][nakaguma] · **American Economic Journal: Microeconomics**, Vol. 18 (No. 4), pp. 208-248, 2026
 
-[Political Economy]{.pub-topic} · [PDF](){.pub-link} · [Replication Package](https://www.aeaweb.org/articles?id=10.1257/mic.20240211){.pub-link}
+[Political Economy]{.pub-topic} · [Earlier WP version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4634314){.pub-link} · [Replication Package](https://doi.org/10.3886/E241509V1){.pub-link}
 :::
 
 ::: {.pub}

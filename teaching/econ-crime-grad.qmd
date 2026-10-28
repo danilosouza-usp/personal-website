@@ -79,9 +79,13 @@ Assessment has three components: (i) a referee report on an unpublished paper, (
 ### Use of AI {.subhead}
 AI tools are not prohibited, but they must not form the basis of your work: the analysis, the interpretation, and the ideas must be yours. This course follows the standards now set by academic publishers, and you are strongly encouraged to read both — they are short, and you will be held to them when you submit your own papers: [Elsevier](https://www.elsevier.com/about/policies-and-standards/generative-ai-policies-for-journals) and [Wiley](https://www.wiley.com/en-us/publish/article/ai-guidelines/#peerreview).
 
-Every submission in which AI was used must close with a section titled *``Declaration of generative AI and AI-assisted technologies in the [referee report / manuscript] preparation process''*, stating exactly which tool was used and at which stages. Use the templates provided by either publisher. Basic spelling and grammar checks need not be declared.
+Every submission in which AI was used must close with a section titled *"Declaration of generative AI and AI-assisted technologies in the [referee report / manuscript] preparation process"*, stating exactly which tool was used and at which stages. Use the templates provided by either publisher. Basic spelling and grammar checks need not be declared.
 
 When writing your referee report, **never upload the paper**, or any part of it, into an AI tool. An unpublished manuscript is a confidential document, and doing so may violate the authors' confidentiality and proprietary rights.
+
+Don't get me wrong, AI is a remarkable tool, and it raises productivity on routine tasks — but leaning on it too heavily, at the expense of how we have traditionally studied and learned, may damage the learning process itself and erode our ability to recognize what we do not know. The evidence increasingly points in this direction. In the working paper [*"The Generative AI Learning Penalty: Evidence from Chinese Secondary Education"*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618), Strömberg, Lei, and Wu track 26,811 students over 30 months and find that AI adoption raised homework productivity: scores rose by 18% while completion time fell by 30%. On the other hand, scores on closed-book exams, a common measure of learning outcome, decreased by 20% within six months. The losses are concentrated among the students whose short completion times and high homework scores indicate they had outsourced the work, while those who kept putting in the hours lost almost nothing. *The Economist* covered the paper [here](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning). The figure below shows the size of the problem and the challenge that we will have to face in the coming years.
+
+![](wp_ai.png){#fig-ai width=800px max-width=100% fig-align="center"}
 :::
 
 <!-- ============ CONTACT ============ -->
